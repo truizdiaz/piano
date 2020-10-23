@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Piano"
+    }
+  },
+  "defaultProject": "Piano",
+  "cli": {
+    "analytics": "ae8488a5-fcb6-4738-84f7-00e0b0005af8"
+  }
 }
